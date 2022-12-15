@@ -1,0 +1,6 @@
+.snowFlake{
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    box-shadow: 0 0 6px 1px rgb(255, 255, 255);
+}
